@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anish Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Anish Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2025 19:35:33 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 10 Feb 2025 19:35:33 -0500</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;mailto:anish@gmail.com&#34;&gt;anish@gmail.com&lt;/a&gt;&#xA;123-456-7890&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Résumé</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 10 Feb 2025 19:32:52 -0500</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;Studied computer science and robotics at the University of Pennsylvania&lt;br&gt;&#xA;Co-founded Chatter (acq.) and built developer tooling for AI&lt;br&gt;&#xA;Founder in the summer &amp;lsquo;23 batch of Y Combinator&lt;br&gt;&#xA;SWE Intern @ Autodesk&lt;br&gt;&#xA;Robotics Intern @ Mojo Vision&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 10 Feb 2025 19:27:11 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m Anish and I like to build things.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently working on enterprise ai @ Scale AI and a scout for a16z.&lt;/p&gt;&#xA;&lt;p&gt;Previously:&lt;/p&gt;&#xA;&lt;p&gt;Studied computer science and robotics at the University of Pennsylvania&#xA;Co-founded Chatter (acq.) and built developer tooling for AI&#xA;Founder in the summer &amp;lsquo;23 batch of Y Combinator&#xA;Always excited to talk about startups, robotics, ai/ml, and food!&lt;/p&gt;&#xA;&lt;p&gt;Anish Agrawal&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
